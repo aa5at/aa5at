@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Ahmad
+# 👋 Hi, I'm aa5at
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Ethical+Hacker+in+Progress;Full-Stack+Developer;Network+Administrator;Always+Learning+New+Things..." />
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Hi"> 
@@ -19,8 +23,11 @@ Stack: MERN (MongoDB, Express, React, Node.js)
 Tools: Python, Kali Linux, Networking
 Role: Technical Support & Network Management
 Currently Learning: Advanced Penetration Testing & Cloud Security
+````
 
-🛠️ Tech Stack & Tools
+---
+
+## 🛠️ Tech Stack & Tools
 
 🔐 Cybersecurity
 
@@ -31,8 +38,6 @@ Currently Learning: Advanced Penetration Testing & Cloud Security
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white"/>
 </p>
-
-
 
 ⚛️ Frontend Development
 
@@ -54,7 +59,6 @@ Currently Learning: Advanced Penetration Testing & Cloud Security
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-
 🌐 Network Administration
 
 <p align="left">
@@ -63,66 +67,84 @@ Currently Learning: Advanced Penetration Testing & Cloud Security
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
+---
 
-
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aa5at&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aa5at&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aa5at&theme=radical&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" />
 </p>
 
+---
 
-🎯 Currently Working On
+## 🎯 Currently Working On
 
-+ 🛡️ Python-based network scanner
-+ ⚛️ React Native security dashboard
-+ 🔐 Advanced penetration testing techniques
-+ 🌐 Home lab for network security
+* 🛡️ Python-based network scanner
+* ⚛️ React Native security dashboard
+* 🔐 Advanced penetration testing techniques
+* 🌐 Home lab for network security
 
+---
 
-🏆 Featured Projects
+## 🏆 Featured Projects
 
-Project
-Description
-Tech Stack
-Link
-🔐 Pentest Toolkit
-Python scripts collection for ethical hacking
-Python, Bash
-🔗
-📱 SecureChat App
-End-to-end encrypted messaging
-React Native, Node.js, MongoDB
-🔗
-🌐 Network Monitor
-Real-time traffic analyzer
-Python, Wireshark API, Flask
-🔗
+| Project            | Description                                   | Tech Stack                     | Link |
+| ------------------ | --------------------------------------------- | ------------------------------ | ---- |
+| 🔐 Pentest Toolkit | Python scripts collection for ethical hacking | Python, Bash                   | 🔗   |
+| 📱 SecureChat App  | End-to-end encrypted messaging                | React Native, Node.js, MongoDB | 🔗   |
+| 🌐 Network Monitor | Real-time traffic analyzer                    | Python, Wireshark API, Flask   | 🔗   |
 
+---
 
-🤝 Connect With Me
+## 🏅 Certifications & Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/eJPT-In%20Progress-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CEH-Future%20Goal-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Security+-Planned-green?style=for-the-badge"/>
+</p>
+
+---
+
+## 🌍 Visitor Map
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/aa5at">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+</p>
 
+---
 
-
-⚡ Fun Fact
+## ⚡ Fun Fact
 
 “The only way to discover the limits of the possible is to go beyond them into the impossible.” – Arthur C. Clarke
 
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aa5at&label=Profile%20Views&color=00FFFF&style=for-the-badge&logo=github" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=aa5at&label=Profile%20Views&color=00FFFF&style=for-the-badge&logo=github" />
+</p>
+
+<!-- 🔥 Cyberpunk Footer -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:000000&height=120&section=footer"/>
 </p>
 ```
 
-
+---
 
